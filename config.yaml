@@ -1,9 +1,9 @@
 baseURL: /
 languageCode: en
-title: Blogophonic
+title: learnB4SS
 author: Formspree
-description: A modern, beautiful, and easily configurable blog theme for Hugo.
-copyright: ''
+description: Place holder, short description here.
+copyright: 'learnB4SS 2021'
 googleAnalytics: ''
 disqusShortname: ''
 metaDataFormat: yaml
@@ -25,7 +25,7 @@ params:
   headingColor: near-black
   headingFontFamily: sans-serif
   headlineColor: dark-pink
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/learnB4SS.png
   navLinkColor: near-black
   orgLocal: Brooklyn, NY
   orgName: Formspree
