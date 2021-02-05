@@ -49,3 +49,4 @@ taxonomies:
   category: categories
   series: series
   tag: tags
+publishDir: "./docs"
