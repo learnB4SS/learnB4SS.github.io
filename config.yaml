@@ -1,0 +1,51 @@
+baseURL: /
+languageCode: en
+title: Blogophonic
+author: Formspree
+description: A modern, beautiful, and easily configurable blog theme for Hugo.
+copyright: ''
+googleAnalytics: ''
+disqusShortname: ''
+metaDataFormat: yaml
+pygmentsCodeFences: yes
+pygmentsOptions: linenos=table
+pygmentsStyle: friendly
+footnoteReturnLinkContents: '&#8617;'
+paginate: 3
+preserveTaxonomyNames: yes
+params:
+  bodyLinkColor: blue
+  borderColor: moon-gray
+  buttonBgColor: black
+  buttonHoverBgColor: blue
+  buttonHoverTextColor: white
+  buttonTextColor: near-white
+  favicon: /img/favicon.ico?v=0
+  footerTextColor: silver
+  headingColor: near-black
+  headingFontFamily: sans-serif
+  headlineColor: dark-pink
+  logo: /img/blogophonic-mark-dark.png
+  navLinkColor: near-black
+  orgLocal: Brooklyn, NY
+  orgName: Formspree
+  sidebarBgColor: light-gray
+  sidebarLinkColor: near-black
+  sidebarTextColor: mid-gray
+  siteBgColor: near-white
+  socialInFooter: no
+  socialInHeader: no
+  textColor: dark-gray
+  textFontFamily: sans-serif
+social:
+  facebook: formspree
+  facebook_admin: ''
+  github: formspree
+  instagram: ''
+  medium: ''
+  twitter: formspree
+  youtube: ''
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
