@@ -5,12 +5,12 @@ header:
   - name: About
     title: About
     url: /about/
-  - name: Blog
-    title: Blog
-    url: /blog/
-  - name: Contact
-    title: Contact Form
-    url: /contact/
+#  - name: Blog
+#    title: Blog
+#    url: /blog/
+#  - name: Contact
+#    title: Contact Form
+#    url: /contact/
 
 footer:
   - name: RSS
