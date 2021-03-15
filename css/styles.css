@@ -184,7 +184,7 @@ h2::after { content: " "; border: solid 2px #f4aa3e; display: block; width: 35px
 .light-box:hover, .light-box:focus { -webkit-box-shadow: 0px 3px 0px 0px #1D262A; -moz-box-shadow: 0px 3px 0px 0px #1D262A; box-shadow: 0px 3px 0px 0px #1D262A; }
 .box-hover { transition: all 500ms ease-in-out; -webkit-transition: all 500ms ease-in-out; -moz-transition: all 500ms ease-in-out; -o-transition: all 500ms ease-in-out; }
 .box-hover:hover, .box-hover:focus { transform: translate(0, -15px); -webkit-transform: translate(0, -15px); -ms-transform: translate(0, -15px); }
-.wrapper { height: 650px; }
+.wrapper { height: 550px; }
 .nopadding { padding: 0; }
 .inner { padding-top: 170px; }
 /* ==========================================================================
@@ -323,4 +323,4 @@ Waypoints
 .bounceInLeft, .bounceInRight, .fadeInUp, .fadeInUpDelay, .fadeInDown, .fadeInUpD, .fadeInLeft, .fadeInRight { visibility: visible; }
 .delay-05s { animation-delay: 0.5s; -webkit-animation-delay: 0.5s; }
 .delay-1s { animation-delay: 1s; -webkit-animation-delay: 1s; }
-.wp3 { background: url('../img/iphone-bg.png') no-repeat center center; background-position: 200px 10px; height: 100%; }
+.wp3 { background: url('../img/dates.svg') no-repeat center center; background-position: 130px 120px; height: 100%; background-color: lightgrey}
